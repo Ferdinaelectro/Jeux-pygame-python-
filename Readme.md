@@ -15,7 +15,7 @@
 ## Installation
 1. Clone this repository or download the ZIP file:
     ```bash
-    git clone https://github.com/username/game-name.git
+    git clone https://github.com/Ferdinaelectro/Jeux-pygame-python-.git
     ```
 2. Install the required dependencies with `pip`:
     ```bash
