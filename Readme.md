@@ -6,7 +6,7 @@
 
 ## Screenshots
 
-![Screenshot](/home/ferdinand/Images/Captures d’écran/image_game_combat.png)
+![Screenshot](/image_game_combat.png)
 
 ## Features
   - Scoring system.
